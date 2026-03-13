@@ -3,6 +3,7 @@ Here are some of the other projects I worked on as part of my university course
 
 ### Games and Simulation
 Solo Project: https://github.com/GamesAndSimulation/ia-64783-andreCorreia
+
 Group Project: https://github.com/GamesAndSimulation/ga-G2-01
 
 ### Internet Application Design and Implementation
